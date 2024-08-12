@@ -1,51 +1,51 @@
 # self-improvement-roadmap
 Documenting my attempt of completing AI and Data Scientist Roadmap from https://roadmap.sh/ai-data-scientist
-## 1. Mathematics **:white_check_mark:**
+## 1. Mathematics **:ballot_box_with_check:**
 I decided to follow MATHEMATICS FOR MACHINE LEARNING by Marc Peter Deisenroth, A. Aldo Faisal and Cheng Soon Ong.
 If there are any other resources in the book I will sideway into them.
-### Linear Algebra **:white_check_mark:**
+### Linear Algebra **:ballot_box_with_check:**
 Book authors recomend MIT's Gilbert Strang's lectures on the subject, which can be found here: https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
-- Lecture 1. :heavy_check_mark:
-- Lecture 2. :white_check_mark:
-- Lecture 3. :white_check_mark:
-- Lecture 4. :white_check_mark:
-- Lecture 5. :white_check_mark:
-- Lecture 6. :white_check_mark:
-- Lecture 7. :white_check_mark:
-- Lecture 8. :white_check_mark:
-- Lecture 9. :white_check_mark:
-- Lecture 10. :white_check_mark:
-- Lecture 11. :white_check_mark:
-- Lecture 12. :white_check_mark:
-- Lecture 13. :white_check_mark:
-- Lecture 14. :white_check_mark:
-- Lecture 15. :white_check_mark:
-- Lecture 16. :white_check_mark:
-- Lecture 17. :white_check_mark:
-- Lecture 18. :white_check_mark:
-- Lecture 19. :white_check_mark:
-- Lecture 20. :white_check_mark:
-- Lecture 21. :white_check_mark:
-- Lecture 22. :white_check_mark:
-- Lecture 23. :white_check_mark:
-- Lecture 24. :white_check_mark:
-- Lecture 25. :white_check_mark:
-- Lecture 26. :white_check_mark:
-- Lecture 27. :white_check_mark:
-- Lecture 28. :white_check_mark:
-- Lecture 29. :white_check_mark:
-- Lecture 30. :white_check_mark:
-- Lecture 31. :white_check_mark:
-- Lecture 32. :white_check_mark:
-- Lecture 33. :white_check_mark:
-- Lecture 34. :white_check_mark:
-### Calculus **:white_check_mark:**
-### Mathematical Analysis **:white_check_mark:**
-### Differential Calculus **:white_check_mark:**
-## 2. Statistics **:white_check_mark:**
-## 3. Econometrics **:white_check_mark:**
-## 4. Coding **:white_check_mark:**
-## 5. Exploratory Data Analysis **:white_check_mark:**
-## 6. Machine Learning **:white_check_mark:**
-## 7. Deep Learning **:white_check_mark:**
-## 8. MLOps **:white_check_mark:**
+- Lecture 1.  :white_check_mark:
+- Lecture 2.  :ballot_box_with_check:
+- Lecture 3.  :ballot_box_with_check:
+- Lecture 4.  :ballot_box_with_check:
+- Lecture 5.  :ballot_box_with_check:
+- Lecture 6.  :ballot_box_with_check:
+- Lecture 7.  :ballot_box_with_check:
+- Lecture 8.  :ballot_box_with_check:
+- Lecture 9.  :ballot_box_with_check:
+- Lecture 10. :ballot_box_with_check:
+- Lecture 11. :ballot_box_with_check:
+- Lecture 12. :ballot_box_with_check:
+- Lecture 13. :ballot_box_with_check:
+- Lecture 14. :ballot_box_with_check:
+- Lecture 15. :ballot_box_with_check:
+- Lecture 16. :ballot_box_with_check:
+- Lecture 17. :ballot_box_with_check:
+- Lecture 18. :ballot_box_with_check:
+- Lecture 19. :ballot_box_with_check:
+- Lecture 20. :ballot_box_with_check:
+- Lecture 21. :ballot_box_with_check:
+- Lecture 22. :ballot_box_with_check:
+- Lecture 23. :ballot_box_with_check:
+- Lecture 24. :ballot_box_with_check:
+- Lecture 25. :ballot_box_with_check:
+- Lecture 26. :ballot_box_with_check:
+- Lecture 27. :ballot_box_with_check:
+- Lecture 28. :ballot_box_with_check:
+- Lecture 29. :ballot_box_with_check:
+- Lecture 30. :ballot_box_with_check:
+- Lecture 31. :ballot_box_with_check:
+- Lecture 32. :ballot_box_with_check:
+- Lecture 33. :ballot_box_with_check:
+- Lecture 34. :ballot_box_with_check:
+### Calculus **:ballot_box_with_check:**
+### Mathematical Analysis **:ballot_box_with_check:**
+### Differential Calculus **:ballot_box_with_check:**
+## 2. Statistics **:ballot_box_with_check:**
+## 3. Econometrics **:ballot_box_with_check:**
+## 4. Coding **:ballot_box_with_check:**
+## 5. Exploratory Data Analysis **:ballot_box_with_check:**
+## 6. Machine Learning **:ballot_box_with_check:**
+## 7. Deep Learning **:ballot_box_with_check:**
+## 8. MLOps **:ballot_box_with_check:**
