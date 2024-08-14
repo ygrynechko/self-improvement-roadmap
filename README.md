@@ -7,7 +7,7 @@ If there are any other resources in the book I will sideway into them.
 Book authors recomend MIT's Gilbert Strang's lectures on the subject, which can be found here: https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
 - Lecture 1.  :white_check_mark:
 - Lecture 2.  :white_check_mark:
-- Lecture 3.  :ballot_box_with_check:
+- Lecture 3.  :white_check_mark:
 - Lecture 4.  :ballot_box_with_check:
 - Lecture 5.  :ballot_box_with_check:
 - Lecture 6.  :ballot_box_with_check:
