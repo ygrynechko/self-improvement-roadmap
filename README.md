@@ -39,6 +39,24 @@ Book authors recomend MIT's Gilbert Strang's lectures on the subject, which can 
 - Lecture 32. :ballot_box_with_check:
 - Lecture 33. :ballot_box_with_check:
 - Lecture 34. :ballot_box_with_check:
+
+and 3blue1brown that can be found here https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1
+- Video 1.  :white_check_mark:
+- Video 2.  :white_check_mark:
+- Video 3.  :ballot_box_with_check:
+- Video 4.  :ballot_box_with_check:
+- Video 5.  :ballot_box_with_check:
+- Video 6.  :ballot_box_with_check:
+- Video 7.  :ballot_box_with_check:
+- Video 8.  :ballot_box_with_check:
+- Video 9.  :ballot_box_with_check:
+- Video 10. :ballot_box_with_check:
+- Video 11. :ballot_box_with_check:
+- Video 12. :ballot_box_with_check:
+- Video 13. :ballot_box_with_check:
+- Video 14. :ballot_box_with_check:
+- Video 15. :ballot_box_with_check:
+- Video 16. :ballot_box_with_check:
 ### Calculus **:ballot_box_with_check:**
 ### Mathematical Analysis **:ballot_box_with_check:**
 ### Differential Calculus **:ballot_box_with_check:**
